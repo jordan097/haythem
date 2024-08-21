@@ -1,0 +1,24 @@
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+body {
+    background: #dd5e89;
+    background: -webkit-linear-gradient(to left, #dd5e89, #f7bb97);
+    background: linear-gradient(to left, #dd5e89, #f7bb97);
+    min-height: 100vh;
+  }
+  .img{
+    width: 50px;
+  }
+  .tache-termine{
+    color:red;
+    font-weight: 200px;
+  }
+  .tache-non-termine{
+    color:blue;
+    font-weight: 200px;
+  }
